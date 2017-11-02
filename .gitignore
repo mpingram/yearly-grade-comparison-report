@@ -1,0 +1,6 @@
+data
+reports
+*.pyc
+**/*.pyc
+*.swp
+**/*.swp
